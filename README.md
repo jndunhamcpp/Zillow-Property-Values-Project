@@ -37,7 +37,7 @@ Business Intelligence
 - DAX – growth and time-window calculations
 
 ## Power Bi
-Using this DAX script along with the data from my database, I created an interactive dashboard that allows users to filter data by state, county, timeframe, and number of bedrooms. The dashboard includes the following visualizations:
+Using DAX scripts along with the data from my database, I created an interactive dashboard that allows users to filter data by state, county, timeframe, and number of bedrooms. The dashboard includes the following visualizations:
 
 1. A heatmap showing which counties in the selected state have seen the most growth.
 2. A county growth chart displaying the counties with the highest property values.
