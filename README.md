@@ -23,16 +23,16 @@ This project resolves those issues by transforming the data into a normalized, r
 
 ## Tech Stack
 
-### Data Engineering
+Data Engineering
 - Python
 - Pandas – data extraction, transformation, reshaping
 - SQLAlchemy – PostgreSQL connection and data loading
 - Matplotlib / Seaborn – data quality and null-value visualization
 
-### Database
+Database
 - PostgreSQL
 
-### Business Intelligence
+Business Intelligence
 - Power BI
 - DAX – growth and time-window calculations
 
